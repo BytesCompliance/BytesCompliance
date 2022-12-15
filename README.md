@@ -2,7 +2,7 @@
 
 ----
 
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6032/badge)](https://bestpractices.coreinfrastructure.org/projects/6032) <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6032/badge)](https://bestpractices.coreinfrastructure.org/projects/6032) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 ## Overview
 
@@ -52,12 +52,8 @@ To report a problem, you can open an issue in the repository against a specific 
 
 ----
 
-OpenDatalogy is licensed under [MIT](https://opensource.org/licenses/MIT)
+OpenDataology is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-Copyright 2022 OpenDatalogy
+Copyright (c) 2022 The OpenDataology Authors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+All rights reserved.
